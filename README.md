@@ -1,6 +1,30 @@
 # mini-challenges
 
+## 📣 Overview:
+
+- Intro
+- Tech Stack
+- Techniques & Tools
+- Additional Link
+
+## 🔎 Intro:
+
 Mini-Challenges is an engaging app offering a variety of quick, fun challenges to boost creativity, skills, and daily productivity. This is a practice project based in React, and mainly focus on **animating**.
+
+---
+
+## 🧰 Tech Stack:
+
+- React
+- JavaScript
+- CSS3
+- ViteJS
+
+## 🛠️ Techniques & Tools:
+
+- React Hooks
+- React Context API
+- Animations
 
 ---
 

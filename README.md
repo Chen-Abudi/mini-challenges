@@ -19,6 +19,7 @@ Mini-Challenges is an engaging app offering a variety of quick, fun challenges t
 - JavaScript
 - CSS3
 - ViteJS
+- Framer Motion
 
 ## 🛠️ Techniques & Tools:
 

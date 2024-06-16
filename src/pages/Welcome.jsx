@@ -32,7 +32,6 @@ export default function WelcomePage() {
         </motion.div>
         <motion.img
           style={{ opacity: opacityCity, y: yCity }}
-          // animate={{ opacity: 1 }}
           src={cityImg}
           alt="A city skyline touched by sunlight"
           id="city-image"

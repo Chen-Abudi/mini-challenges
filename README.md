@@ -26,6 +26,7 @@ Mini-Challenges is an engaging app offering a variety of quick, fun challenges t
 - React Hooks
 - React Context API
 - Animations
+- Framer Motion Hooks
 
 ---
 
